@@ -1,3 +1,7 @@
+**This repository has been archived and is no longer actively maintained**
+
+----
+
 ## Persisted Objects
 
 This repository is a collection of repositories (pun intended) that somebody might find useful
